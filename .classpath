@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="src/lib/core-6.7.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/jersey-jsr166e-2.25.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/kotlin-runtime.jar"/>
+	<classpathentry kind="lib" path="src/lib/logging-interceptor-3.11.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/okhttp-urlconnection-3.11.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="lib" path="src/lib/tone-analyzer-6.7.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/twitter4j-async-4.0.7.jar"/>
+	<classpathentry kind="lib" path="src/lib/twitter4j-core-4.0.7.jar"/>
+	<classpathentry kind="lib" path="src/lib/twitter4j-examples-4.0.7.jar"/>
+	<classpathentry kind="lib" path="src/lib/twitter4j-stream-4.0.7.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
